@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<script type="text/javascript">
+function myFunction() {
+	//  document.getElementById("demo").innerHTML = "1";
+	  var html = document.getElementById("demo").innerHTML;
+	     document.getElementById("demo").innerHTML = html.replace(html+1);
+	}
+   
+</script>
+</head>
+<body>
+<div id="rating">
+    <button class="like">Like</button>
+    <span class="likes">0</span>
+    <button class="dislike">Dislike</button>
+    <span class="dislikes">0</span>
+    	<td><button onclick="myFunction()">Click me</button></td>
+    	<p id="demo"></p>
+</div>
+</body>
+</html>

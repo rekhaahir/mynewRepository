@@ -1,0 +1,20 @@
+package com_5_6_19_practicals;
+
+public class Prac87 {
+	public static void main(String[] args) {
+		int count = 0;
+		try {
+			for (int i = 0; i < 5; i++) {
+				int a = Integer.parseInt(args[i]);
+				if (a / 2 != 0) {
+					count++;
+					throw new ArithmeticException("odd exception");
+				}
+			}
+		} catch (ArithmeticException e) {
+			System.out.print(e.getMessage());
+			System.out.print(count);
+
+		}
+	}
+}

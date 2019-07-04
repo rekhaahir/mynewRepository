@@ -1,0 +1,15 @@
+package com_5_6_19_practicals;
+
+public class Prac110 {
+
+	public static void main(String[] args) {
+		String s="my name is xyz";
+		String[] d=s.split("");
+		for(int i=0;i<d.length;i++)
+		{
+			System.out.print(d[i]);
+		}
+
+	}
+
+}

@@ -1,0 +1,21 @@
+
+†squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•æÂš8‰è¿Š³-Hõ+RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(´½à8‰è¿Š³-Hö+RMAJORZ
+CODE_SMELL
+—squid:S2234"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(ŒÂ¶©øÿÿÿÿ8‰è¿Š³-H÷+RMAJORZ
+CODE_SMELL
+†squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•æÂš8‰è¿Š³-Hø+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸğĞõùÿÿÿÿ8‰è¿Š³-Hù+RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHú+RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8‰è¿Š³-Hû+RMINORZ
+CODE_SMELL
+†squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•æÂš8‰è¿Š³-Hü+RMINORZ
+CODE_SMELL
+‘squid:S2234"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(˜£õG8‰è¿Š³-Hı+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.demo.bean.Registerbean;
+
+import com.example.demo.repository.Myrepo;
+public class Services {
+
+	@Autowired
+	private Myrepo repo;
+public void ins(Registerbean obj) {
+
+		
+		repo.save(obj);
+	}
+}

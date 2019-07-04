@@ -1,0 +1,18 @@
+package com.example.demo.repository;
+
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.example.demo.bean.Ansbean;
+
+public interface AnsupdateRepository  extends CrudRepository<Ansbean, Long> {
+	 @Modifying
+	   @Query("UPDATE Ansbean c SET c.valid =1 WHERE c.aid = :ID")
+	   public  int updateAddress( @Param("ID") long id1);
+	   
+	   @Modifying
+	   @Query("UPDATE Point c SET c.correct =5 WHERE c.aid = :ID")
+	   public  int updatepoint( @Param("ID") long id1);
+}

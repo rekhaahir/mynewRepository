@@ -1,0 +1,47 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.example.demo.bean.Ansbean;
+import com.example.demo.bean.Quebean;
+import com.example.demo.bean.Registerbean;
+import com.example.demo.repository.AnswerRepository;
+import com.example.demo.repository.Myrepo;
+import com.example.demo.repository.QuestionRepository;
+import com.example.demo.repository.insertpoint;
+
+@Service
+public class Services {
+
+	@Autowired
+	Myrepo repo;
+	@Autowired
+	insertpoint in;
+	@Autowired
+	QuestionRepository qrp;
+	@Autowired
+	AnswerRepository arepo;
+
+	public void insert(Registerbean obj) {
+		repo.save(obj);
+	}
+	public void insertque(Quebean oj) {
+		qrp.save(oj);
+	}
+	public void insertans(Ansbean oa) {
+		arepo.save(oa);
+	}
+
+	public Registerbean checkLogin(String name) {		
+		return repo.check(name);	
+		
+	}
+
+	@Transactional
+	public int pointinsert(long aid,long rid,long id2)
+	{
+		return in.modifyingQueryInsert(aid, rid, id2);
+	}
+}

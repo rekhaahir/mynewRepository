@@ -1,0 +1,23 @@
+package com_5_6_19_practicals;
+class Demo2
+{
+	final int calc()
+	{
+		int a=10,b=90;
+		return a+b;
+	}
+	
+}
+public class Prac70 extends Demo2{
+	 int calc()			//it will genrate error ,can't override  ,its final
+	{
+		int a=10,b=90;
+		return a*b;
+	}
+		public static void main(String[] args)
+		{
+			Prac70 ob=new Prac70();
+			ob.calc();
+		}
+	
+}

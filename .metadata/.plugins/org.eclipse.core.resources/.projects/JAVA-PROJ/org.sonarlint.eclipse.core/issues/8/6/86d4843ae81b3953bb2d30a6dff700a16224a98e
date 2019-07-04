@@ -1,0 +1,32 @@
+
+Osquid:S2189""Add an end condition to this loop.(п€ћяяяяяHА+RBLOCKERZBUG
+}squid:S1192"MDefine a constant instead of duplicating this literal "enter input:" 3 times.(х­§кHБ+RCRITICALZ
+CODE_SMELL
+€squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡уЧСHВ+RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(х­§кHГ+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(х­§кHД+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(х­§кHЕ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(з…«ХшяяяяHЖ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ђЩђъьяяяяHЗ+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ђбяЎHИ+RMAJORZ
+CODE_SMELL
+j
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ЃУаФьяяяяHЙ+RMAJORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(§хкляяяяяHК+RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ЇЂ¤HЛ+RMAJORZ
+CODE_SMELL

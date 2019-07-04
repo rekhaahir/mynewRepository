@@ -1,0 +1,49 @@
+package com.example.demo.bean;
+
+import java.sql.Timestamp;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+
+@Entity
+@Table(name = "Questions")
+public class Quebean {
+
+	
+	 
+	 @ManyToOne(cascade= CascadeType.ALL)
+	    @JoinColumn(name = "r_ID")
+	    private Registerbean rb;
+
+	   public Quebean() {
+	        super();
+		}
+
+	    public Quebean(int addrId, String qu ,Timestamp tp, Registerbean rb)
+	    {
+	        super();
+	        this.qid = addrId;
+	        this.Que = qu;
+	       
+	        this.rb = rb;
+	    }
+
+
+	 @Id
+		@GeneratedValue(strategy = GenerationType.AUTO)
+		private int qid;
+		@Column
+		private String Que;
+		@Column
+		private Timestamp Time;	
+		@Column
+		private String email;	
+}

@@ -1,0 +1,14 @@
+package com.example.demo.repository;
+
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.example.demo.bean.Ansbean;
+
+public interface likerepository  extends CrudRepository<Ansbean, Long>{
+	@Modifying
+	   @Query("UPDATE Ansbean a SET a.likec =a.likec+1 WHERE a.aid = :ID")
+	   public  int like22( @Param("ID") long id1);
+}

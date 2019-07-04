@@ -1,0 +1,28 @@
+package com_5_6_19_practicals;
+
+public class Prac67 {
+	void show() {
+		System.out.println("hi");
+	}
+
+	void show(String s) {
+		System.out.println(s);
+	}
+
+	void show(int a) {
+		System.out.println("rollno:" + a);
+	}
+
+	void show(int b, int c, int d) {
+		System.out.println("marks" + " " + (b + c + d) / 3);
+	}
+
+	public static void main(String[] args) {
+		Prac67 ob = new Prac67();
+		ob.show();
+		ob.show("neha:");
+		ob.show(6090);
+		ob.show(60, 60, 60);
+	}
+
+}

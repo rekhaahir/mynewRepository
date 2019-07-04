@@ -1,0 +1,42 @@
+package com_5_6_19_practicals;
+
+import java.util.Scanner;
+
+public class Prac30 {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+
+		int a[] = new int[10];
+		System.out.print("Enter Array Size : ");
+		int size = s.nextInt();
+		System.out.println("enter element");
+		for (int i = 0; i < size; i++) {
+			a[i] = s.nextInt();
+		}
+
+		System.out.println("enter element you want to insert");
+		int x = s.nextInt();
+		System.out.println("enter position to insert");
+		int pos = s.nextInt();
+		for (int i = 0; i < size; i++) {
+			for (int j = 0; j < size - 1; j++) {
+				if (a[j] > a[j + 1]) {
+					int temp = a[j + 1];
+					a[j + 1] = a[j];
+					a[j] = temp;
+
+				}
+			}
+		}
+		for (int i = size; i > pos; i--) {
+			a[i] = a[i - 1];
+		}
+		a[pos] = x;
+
+		for (int i = 0; i < size + 1; i++) {
+			System.out.println(a[i]);
+		}
+
+	}
+
+}

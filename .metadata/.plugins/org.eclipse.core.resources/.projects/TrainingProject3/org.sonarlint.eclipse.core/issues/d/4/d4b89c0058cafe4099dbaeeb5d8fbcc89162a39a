@@ -1,0 +1,89 @@
+
+f
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ÚœúÍHú8RMAJORZ
+CODE_SMELL
+hsquid:S2259§"AA "NullPointerException" could be thrown; "con" is nullable here.(î°®àH≠8RMAJORZBUG
+k
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(É”∏Ç˙ˇˇˇˇH©8RMAJORZ
+CODE_SMELL
+Äsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≈ˇÃHØ8RMINORZ
+CODE_SMELL
+Xsquid:S1148O"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇHû8RMINORZVULNERABILITY
+Äsquid:S00117π"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïõ£ÙH®8RMINORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®∂—Õ˛ˇˇˇˇH†8RMAJORZ
+CODE_SMELL
+hsquid:S2259à"AA "NullPointerException" could be thrown; "con" is nullable here.(î°®àHã8RMAJORZBUG
+f
+squid:S106†"9Replace this use of System.out or System.err by a logger.(πœ¿‡H£8RMAJORZ
+CODE_SMELL
+Qsquid:S2068" Remove this hard-coded password.(Å˝µ]Hß8RBLOCKERZVULNERABILITY
+f
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(üñ»®Hê8RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ωä‘“Hò8RMAJORZ
+CODE_SMELL
+}squid:S1192["MDefine a constant instead of duplicating this literal "Connect fail" 3 times.(πœ¿‡H´8RCRITICALZ
+CODE_SMELL
+nsquid:UselessImportCheck"4Remove this unused import 'javax.servlet.http.Part'.(Ûïô¨H¢8RMINORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(¸ªÉ˚ˇˇˇˇˇ8Â˝¥»∂-Hé8RMAJORZ
+CODE_SMELL
+gsquid:S2259_"AA "NullPointerException" could be thrown; "con" is nullable here.(Íıÿ¢Hí8RMAJORZBUG
+esquid:S1226Ω">Introduce a new variable instead of reusing the parameter "q".(üÇÙ¶H∞8RMINORZBUG
+f
+squid:S106É"9Replace this use of System.out or System.err by a logger.(πœ¿‡Hô8RMAJORZ
+CODE_SMELL
+[squid:EmptyStatementUsageCheck"Remove this empty statement.(ÃÏ¢Hñ8RMINORZ
+CODE_SMELL
+|squid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã˘™≠Hè8RMINORZ
+CODE_SMELL
+j
+squid:S106o"9Replace this use of System.out or System.err by a logger.(Ê®§ö¯ˇˇˇˇH≤8RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(‰¨∆õ˘ˇˇˇˇH¨8RMAJORZ
+CODE_SMELL
+d
+squid:S106n"9Replace this use of System.out or System.err by a logger.(º÷ÏLHõ8RMAJORZ
+CODE_SMELL
+rsquid:UselessImportCheck"9Remove this unused import 'com.him.servlet.Registration'.(ÃÏ¢H¶8RMINORZ
+CODE_SMELL
+f
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(˘£Ò÷H•8RMAJORZ
+CODE_SMELL
+_squid:S4925"-Remove this "Class.forName()", it is useless.(πµ÷¡¸ˇˇˇˇHü8RMAJORZ
+CODE_SMELL
+k
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(Ü’™”ˇˇˇˇˇHó8RMAJORZ
+CODE_SMELL
+f
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ùæÕÆHö8RMAJORZ
+CODE_SMELL
+e
+squid:S106["9Replace this use of System.out or System.err by a logger.(πœ¿‡Hë8RMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(ü¥ØÁˇˇˇˇˇHù8RMAJORZ
+CODE_SMELL
+Ösquid:S00117∫"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ç¢∆¸ˇˇˇˇHì8RMINORZ
+CODE_SMELL
+}squid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥åîâH§8RMINORZ
+CODE_SMELL
+|squid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÃ$Hç8RMINORZ
+CODE_SMELL
+msquid:S2259≥"AA "NullPointerException" could be thrown; "con" is nullable here.( ÿ÷ˇ˚ˇˇˇˇH°8RMAJORZBUG
+gsquid:S22591"AA "NullPointerException" could be thrown; "con" is nullable here.(î°®àH™8RMAJORZBUG
+lsquid:UselessImportCheck"2Remove this unused import 'org.omg.CORBA.Request'.(ü’≤≈H±8RMINORZ
+CODE_SMELL
+^squid:S1135!"2Complete the task associated to this TODO comment.(áÒ≈ºHï8RINFOZ
+CODE_SMELL
+usquid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(Ì®ÙÅHÆ8RMINORZ
+CODE_SMELL
+]squid:S1481,"0Remove this unused "inputStream" local variable.(˜∑Ω©Hä8RMINORZ
+CODE_SMELL
+k
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(∂¿Í®¯ˇˇˇˇHå8RMAJORZ
+CODE_SMELL
+Ösquid:S00117∏"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áí‹Ñ¯ˇˇˇˇHî8RMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+
+asquid:S1481"(Remove this unused "ob1" local variable.(Öİ‹»øÿÿÿÿ8í¯ŒŠ³-H¡RMINORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "ob2".(Îæ„8í¯ŒŠ³-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ÷´›úÿÿÿÿ8í¯ŒŠ³-HœRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰œ¶Íÿÿÿÿÿ8í¯ŒŠ³-HšRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH•RMINORZ
+CODE_SMELL
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(«å˜8í¯ŒŠ³-H›RMAJORZ
+CODE_SMELL
+isquid:S1854"6Remove this useless assignment to local variable "ob".(³Ò,8í¯ŒŠ³-HŸRMAJORZ
+CODE_SMELL
+psquid:S1854"7Remove this useless assignment to local variable "ob1".(Öİ‹»øÿÿÿÿ8í¯ŒŠ³-HRMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "ob2" local variable.(Îæ„8í¯ŒŠ³-H¢RMINORZ
+CODE_SMELL
+Zsquid:S1481"'Remove this unused "ob" local variable.(³Ò,8í¯ŒŠ³-H RMINORZ
+CODE_SMELL

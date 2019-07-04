@@ -1,0 +1,28 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.bean.Registerbean;
+
+import com.example.demo.repository.Myrepo;
+
+@Service
+public class Services {
+
+	@Autowired
+	Myrepo repo;
+
+	public void insert(Registerbean obj) {
+		repo.save(obj);
+	}
+//	public boolean log(Registerbean user) {
+//
+//		Registerbean u=repo.findByName(user.getUserName(),user.getPassWord());
+//		if(u!=null)
+//			return true;
+//		else
+//			return false;
+//		
+//}
+}

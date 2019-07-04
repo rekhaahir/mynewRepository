@@ -1,0 +1,28 @@
+
+‹squid:S4144l"YUpdate this method so that its implementation is not identical to "getPhoto1" on line 52.(İã½øÿÿÿÿHô7RMAJORZ
+CODE_SMELL
+°squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿì¾}Hõ7RCRITICALZ
+CODE_SMELL
+Œsquid:S00116
+"YRename this field "IdRegistration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾åğüÿÿÿÿHö7RMINORZ
+CODE_SMELL
+‡squid:S00116"TRename this field "FirstName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤•×·şÿÿÿÿH÷7RMINORZ
+CODE_SMELL
+†squid:S00116"SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‡àıÿÿÿÿHø7RMINORZ
+CODE_SMELL
+†squid:S00116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›™ÂûÿÿÿÿHù7RMINORZ
+CODE_SMELL
+ˆsquid:S00116"ZRename this field "ConfirmPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßë«íHú7RMINORZ
+CODE_SMELL
+…squid:S00116"RRename this field "EmailId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÕÈğûÿÿÿÿHû7RMINORZ
+CODE_SMELL
+squid:S00116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È”¸„Hü7RMINORZ
+CODE_SMELL
+…squid:S00116"RRename this field "Company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ†‚ıÿÿÿÿHı7RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄŸ²ŞøÿÿÿÿHş7RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÎ¬Hÿ7RMAJORZ
+CODE_SMELL

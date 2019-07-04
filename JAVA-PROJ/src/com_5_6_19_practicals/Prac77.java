@@ -1,0 +1,21 @@
+package com_5_6_19_practicals;
+
+public class Prac77 {
+	void showarray(int[] a) {
+		for (int i = 0; i < a.length; i++) {
+			if (a[i] == 3) {
+				break;
+			}
+
+			System.out.println(a[i]);
+		}
+	}
+
+	public static void main(String[] args) {
+		int[] x = { 1, 2, 3, 4 };
+		Prac77 ob = new Prac77();
+		ob.showarray(x);
+		System.out.println("out from loop");
+	}
+
+}

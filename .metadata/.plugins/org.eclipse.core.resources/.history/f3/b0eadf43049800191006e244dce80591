@@ -1,0 +1,81 @@
+package com.example.demo.bean;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "Points")
+public class Point {
+
+	
+	public Point() {
+
+	}
+	public Ansbean getAb() {
+		return ab;
+	}
+	public void setAb(Ansbean ab) {
+		this.ab = ab;
+	}
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Registerbean rb;
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Ansbean ab;
+
+
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Quebean qbid;
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long pid;
+
+	
+	public Registerbean getRb() {
+		return rb;
+	}
+	public void setRb(Registerbean rb) {
+		this.rb = rb;
+	}
+	public Quebean getQbid() {
+		return qbid;
+	}
+	public void setQbid(Quebean qbid) {
+		this.qbid = qbid;
+	}
+	public Long getPid() {
+		return pid;
+	}
+	public void setPid(Long pid) {
+		this.pid = pid;
+	}
+	public int getTotlike() {
+		return Totlike;
+	}
+	public void setTotlike(int totlike) {
+		Totlike = totlike;
+	}
+	public int getTothelp() {
+		return Tothelp;
+	}
+	public void setTothelp(int tothelp) {
+		Tothelp = tothelp;
+	}
+	public int getCorrect() {
+		return correct;
+	}
+	public void setCorrect(int correct) {
+		this.correct = correct;
+	}
+	@Column
+	private int Totlike;
+	@Column
+	private int Tothelp;
+	@Column
+	private int correct;
+}

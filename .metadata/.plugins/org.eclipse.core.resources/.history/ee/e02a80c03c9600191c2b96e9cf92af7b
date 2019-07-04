@@ -1,0 +1,77 @@
+package com.example.demo.bean;
+
+import java.sql.Timestamp;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "Answer")
+public class Ansbean {
+
+
+	public Ansbean() {
+
+	}
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Registerbean rb1;
+	public Registerbean getRb1() {
+		return rb1;
+	}
+
+	public void setRb1(Registerbean rb1) {
+		this.rb1 = rb1;
+	}
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Quebean qbid;
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long aid;
+
+	@Column
+	private String Answer1;
+
+
+
+	
+
+	public String getAnswer1() {
+		return Answer1;
+	}
+
+	public void setAnswer1(String answer1) {
+		this.Answer1 = answer1;
+	}
+
+	public Ansbean(String aa, Quebean qb) {
+		super();
+		this.Answer1 = aa;
+		this.qbid = qb;
+
+	}
+
+	public Long getAid() {
+		return aid;
+	}
+
+	public void setAid(Long aid) {
+		this.aid = aid;
+	}
+
+	public Quebean getQbid() {
+		return qbid;
+	}
+
+	public void setQbid(Quebean qbid) {
+		this.qbid = qbid;
+	}
+
+	
+
+}

@@ -1,0 +1,25 @@
+
+q
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ÿ«‚ýÿÿÿÿ8î»ô÷´-HçRMAJORZ
+CODE_SMELL
+bsquid:S2446s"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8î»ô÷´-HèRMAJORZBUG
+wsquid:S2276["CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8î»ô÷´-HéRBLOCKERZBUG
+wsquid:S1155i">Use isEmpty() to check whether the collection is empty or not.(†±©¬þÿÿÿÿ8î»ô÷´-HêRMINORZ
+CODE_SMELL
+wsquid:S2276v"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8î»ô÷´-HëRBLOCKERZBUG
+Psquid:S2189c""Add an end condition to this loop.(¤èÄ78î»ô÷´-HìRBLOCKERZBUG
+asquid:S1604 "(Make this anonymous inner class a lambda(Ø¶‡€øÿÿÿÿ8î»ô÷´-HíRMAJORZ
+CODE_SMELL
+\squid:S1604"(Make this anonymous inner class a lambda(£Ã®ï8î»ô÷´-HîRMAJORZ
+CODE_SMELL
+_squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8î»ô÷´-HïRMINORZVULNERABILITY
+bsquid:S2446W"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8î»ô÷´-HðRMAJORZBUG
+q
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¦œí¶þÿÿÿÿ8î»ô÷´-HñRMAJORZ
+CODE_SMELL
+xsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâÞáøÿÿÿÿ8î»ô÷´-HòRMAJORZBUG
+Psquid:S2189F""Add an end condition to this loop.(¤èÄ78î»ô÷´-HóRBLOCKERZBUG
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8î»ô÷´-HôRMINORZVULNERABILITY
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHõRMINORZ
+CODE_SMELL
+xsquid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâÞáøÿÿÿÿ8î»ô÷´-HöRMAJORZBUG

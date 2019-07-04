@@ -1,0 +1,14 @@
+
+Rsquid:S1065"Remove this unused label.(†éÑøÿÿÿÿ8­«ñ‹³-H„,RMAJORZ
+CODE_SMELL
+‰ squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(†éÑøÿÿÿÿ8­«ñ‹³-H…,RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH†,RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¶îÿÿÿÿÿ8­«ñ‹³-H‡,RMAJORZ
+CODE_SMELL
+‰ squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(éŠİÇÿÿÿÿÿ8–à—µ-Hˆ,RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê„êú8–à—µ-H‰,RMAJORZ
+CODE_SMELL

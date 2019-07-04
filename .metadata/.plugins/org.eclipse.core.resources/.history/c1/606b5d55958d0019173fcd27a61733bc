@@ -1,0 +1,103 @@
+package com_5_6_19_practicals;
+
+import java.util.LinkedList;
+
+class Ipc
+
+{ 
+LinkedList<Integer> list = new LinkedList<>(); 
+int capacity = 2; 
+int val;
+
+	public void prod() throws InterruptedException
+	{    int val=0;
+	    while(true)
+	    	{
+	    		synchronized(this)
+	    			{
+	    				while(list.size()==capacity)
+	    					{
+				    					wait();
+	    					}
+	    				System.out.println("Producer produced-"+ val); 
+					
+	    				list.add(val++);
+	    				notify();
+	    				Thread.sleep(1000);
+				}
+	}
+	  
+			
+	}
+	public 	void cons() throws InterruptedException
+	{
+		while(true)
+		{
+
+		
+			synchronized(this)
+			{
+				while(list.size()==0)
+				{
+					wait();
+					
+				}
+				 val = list.removeFirst(); 
+				   System.out.println("Consumer consumed-"+ val); 
+				 notify();
+				 Thread.sleep(1000);
+			}
+				
+				}
+		}
+	}
+
+
+public class Prac166 {
+	
+	
+	public static void main(String args[])throws Exception
+	{
+		  final Ipc  ob = new Ipc(); 
+		  
+	        // Create producer thread 
+	        Thread t1 = new Thread(new Runnable() 
+	        { 
+	            @Override
+	            public void run() 
+	            { 
+	                try
+	                { 
+	                    ob.prod(); 
+	                } 
+	                catch(InterruptedException e) 
+	                { 
+	                    e.printStackTrace(); 
+	                } 
+	            } 
+	        }); 
+	  
+	        // Create consumer thread 
+	        Thread t2 = new Thread(new Runnable() 
+	        { 
+	            @Override
+	            public void run() 
+	            { 
+	                try
+	                { 
+	                   ob.cons(); 
+	                } 
+	                catch(InterruptedException e) 
+	                { 
+	                    e.printStackTrace(); 
+	                } 
+	            } 
+	        }); 
+	  
+	        t1.start(); 
+	        t2.start(); 
+	  
+	        t1.join(); 
+	        t2.join(); 
+	}
+}

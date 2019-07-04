@@ -1,0 +1,44 @@
+package com.example.demo.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.example.demo.Dao.Dao;
+import com.example.demo.bean.Registerbean;
+import com.example.demo.repository.Myrepo;
+
+public class Regserviceimpl implements Regservice{
+	@Autowired
+	private Dao ob;
+	@Autowired
+	private Myrepo repo;
+
+	@Transactional
+	public List<Registerbean> get() {
+
+		return ob.get();
+	}
+	@Override
+	@Transactional
+	public void ins(Registerbean obj) {
+		Registerbean obvo = new Registerbean();
+		obvo.setFirstName(obj.getFirstName());
+		obvo.setLastName(obj.getLastName());
+		repo.save(obvo);
+	}
+
+	@Override
+	public Registerbean get(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void Delete(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

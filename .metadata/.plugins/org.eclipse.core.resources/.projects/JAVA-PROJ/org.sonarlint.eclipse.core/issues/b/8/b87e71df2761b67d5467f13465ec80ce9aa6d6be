@@ -1,0 +1,51 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHÌ+RMINORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(ø‹à¸ÿÿÿÿÿHÍ+RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ï’HÎ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿHÏ+RMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öå–4HĞ+RMAJORZ
+CODE_SMELL
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÕéºëûÿÿÿÿHÑ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒŒøÿÿÿÿHÒ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÈÜ±ûÿÿÿÿHÓ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÄ»ˆÿÿÿÿÿHÔ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ËùòşÿÿÿÿHÕ+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(éıÚÚHÖ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÔîíùÿÿÿÿH×+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Áî…HØ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(îŠ«äşÿÿÿÿHÙ+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¦­ùHÚ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(îœúôüÿÿÿÿHÛ+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(£µ‚ÿùÿÿÿÿHÜ+RMAJORZ
+CODE_SMELL

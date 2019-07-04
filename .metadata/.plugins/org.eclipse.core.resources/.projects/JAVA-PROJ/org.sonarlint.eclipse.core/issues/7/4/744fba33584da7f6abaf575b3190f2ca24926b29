@@ -1,0 +1,11 @@
+
+msquid:S1854"9Remove this useless assignment to local variable "input".(¶Ñ×Û8©…×ø´-H¢+RMAJORZ
+CODE_SMELL
+^squid:S1481"*Remove this unused "input" local variable.(ÀŸ8©…×ø´-H£+RMINORZ
+CODE_SMELL
+|squid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶Ñ×Û8©…×ø´-H¤+RBLOCKERZBUG
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH¥+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ëÊ—ûÿÿÿÿ8©…×ø´-H¦+RMAJORZ
+CODE_SMELL

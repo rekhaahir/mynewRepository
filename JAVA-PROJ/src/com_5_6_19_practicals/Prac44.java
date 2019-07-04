@@ -1,0 +1,19 @@
+package com_5_6_19_practicals;
+
+public class Prac44 {
+	public static void main(String[] args) {
+
+		int die1;
+		int die2;
+		int roll;
+		die1 = (int) (Math.random() * 6) + 1;
+		die2 = (int) (Math.random() * 6) + 1;
+		roll = die1 + die2;
+
+		System.out.println(die1);
+		System.out.println(die2);
+		System.out.println(roll);
+
+	}
+
+}

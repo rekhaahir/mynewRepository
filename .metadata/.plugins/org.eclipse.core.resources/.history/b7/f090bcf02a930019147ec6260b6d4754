@@ -1,0 +1,45 @@
+package com.example.demo.Dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import org.hibernate.Session;
+import org.hibernate.query.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.bean.Registerbean;
+import com.example.demo.services.Regservice;
+@Repository
+public class DaoImpl implements Regservice {
+	
+	@Autowired
+	private EntityManager entitymanager;
+	
+	
+	public List<Registerbean> get() {
+		Session currentsession=entitymanager.unwrap(Session.class);
+		Query<Registerbean> query=currentsession.createQuery("from Registerbean",Registerbean.class);
+		List<Registerbean> list=query.getResultList();
+		return list;
+	}
+
+	@Override
+	public Registerbean get(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void Save(Registerbean obj) {
+		Session currentsession=entitymanager.unwrap(Session.class);
+		currentsession.save(obj);
+	}
+	
+	@Override
+	public void Delete(int id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

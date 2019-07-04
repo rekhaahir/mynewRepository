@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="1">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/HimDEMO/him.jsp|*|http\://localhost\:8080/ASK_APP/NewFile.html|*|http\://localhost\:8080/ASK_APP/jtpoint.jsp|*|http\://localhost\:8080/ASK_APP/WEB-INF/DashBoard.jsp|*|http\://localhost\:8080/ASK_APP/DashBoard.jsp|*|http\://localhost\:8080/ASK_APP/|*|http\://localhost\:8080/Web/Index.jsp|*|

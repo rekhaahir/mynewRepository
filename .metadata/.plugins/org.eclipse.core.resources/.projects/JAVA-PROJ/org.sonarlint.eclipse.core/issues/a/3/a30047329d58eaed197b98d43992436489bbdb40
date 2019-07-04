@@ -1,0 +1,13 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.( §18 ÒÊ„´-H†RMAJORZ
+CODE_SMELL
+„squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Š¶û8Ç•Æ„´-HıRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒŒüçûÿÿÿÿ8Ç•Æ„´-HÿRMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ç•Æ„´-HşRMINORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H×RMINORZ
+CODE_SMELL

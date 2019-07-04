@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="Http"/>
+		<list key="findhistory">
+			<item value="http"/>
+			<item value="anssshow"/>
+			<item value="ansshow"/>
+			<item value="list"/>
+			<item value="tl"/>
+			<item value="tt"/>
+			<item value="findlogin"/>
+			<item value="qid"/>
+			<item value="ansins"/>
+			<item value="int"/>
+			<item value="long"/>
+			<item value="int "/>
+			<item value="Registerbean"/>
+			<item value="ins"/>
+			<item value="Error creating bean with name &apos;entityManagerFactory&apos; defined in class path resource"/>
+		</list>
+		<list key="replacehistory">
+			<item value="long"/>
+			<item value="8080"/>
+			<item value="8045"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1506"/>
+		<item key="DIALOG_Y_ORIGIN" value="248"/>
+		<item key="DIALOG_WIDTH" value="348"/>
+		<item key="DIALOG_HEIGHT" value="440"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>

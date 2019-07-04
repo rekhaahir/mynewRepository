@@ -1,0 +1,11 @@
+package com_5_6_19_practicals;
+
+public class prac61 extends Employee {
+	private int salary=40000;
+	public static void main(String[] args) {
+		Employee ob=new Employee();
+		
+
+	}
+
+}

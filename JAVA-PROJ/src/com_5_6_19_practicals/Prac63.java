@@ -1,0 +1,10 @@
+package com_5_6_19_practicals;
+
+public class Prac63 extends B {
+
+	public static void main(String[] args) {
+		B ob = new B();
+		ob.give("piya", 10);
+	}
+
+}

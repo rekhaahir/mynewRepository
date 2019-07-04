@@ -1,0 +1,28 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥®ÎÌùÿÿÿÿ8½ì»ÿ³-HÊRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÿ×È8½ì»ÿ³-HËRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µå±8½ì»ÿ³-HÌRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8–êŞÿ³-HÍRMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8½ì»ÿ³-HÎRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(…¡¥ƒıÿÿÿÿ8½ì»ÿ³-HÏRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHĞRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß•·ş8½ì»ÿ³-HÑRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(”–ğ‡şÿÿÿÿ8½ì»ÿ³-HÒRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8½ì»ÿ³-HÓRMAJORZ
+CODE_SMELL

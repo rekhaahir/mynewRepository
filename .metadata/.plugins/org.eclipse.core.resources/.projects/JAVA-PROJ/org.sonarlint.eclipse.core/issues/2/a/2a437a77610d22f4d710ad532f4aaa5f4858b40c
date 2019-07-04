@@ -1,0 +1,17 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH’$RMINORZ
+CODE_SMELL
+[squid:S2140	")Use "java.util.Random.nextInt()" instead.(‘ñÜàýÿÿÿÿH“$RMINORZ
+CODE_SMELL
+Vsquid:S2140
+")Use "java.util.Random.nextInt()" instead.(ñå„þH”$RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒâáàH•$RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÀÙ­H–$RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(±Óð¥H—$RMAJORZ
+CODE_SMELL

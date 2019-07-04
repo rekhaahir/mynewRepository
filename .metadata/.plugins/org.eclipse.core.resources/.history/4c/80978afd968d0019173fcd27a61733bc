@@ -1,0 +1,18 @@
+package com_5_6_19_practicals;
+
+import java.util.Stack;
+
+public class Prac96 {
+	public static void main(String[] args) {
+		Stack<Integer> s=new Stack<Integer>();
+		s.add(1);		
+		s.add(2);
+		s.add(3);
+		s.add(4);
+		while(s.isEmpty()==false)
+		{
+			System.out.println(s.pop());
+		}
+		
+	}
+}

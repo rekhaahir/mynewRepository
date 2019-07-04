@@ -1,0 +1,76 @@
+
+nsquid:S1854h"5Remove this useless assignment to local variable "s".(è÷”¡ÿÿÿÿÿ8®§àÅ·-H‰ERMAJORZ
+CODE_SMELL
+|squid:S4488y"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(½åá8”´»Ã·-HÚDRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(…ªó‡øÿÿÿÿ8ûˆÄ·-HåDRMAJORZ
+CODE_SMELL
+~squid:S4488V"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(àÎƒ8Õ“ìĞ·-HÎGRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(¿‹±òıÿÿÿÿ8®§àÅ·-H‹ERMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(çïÔŞıÿÿÿÿ8·ÏŞÍ·-HáFRMAJORZ
+CODE_SMELL
+squid:S4488K"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğüåƒıÿÿÿÿ8ÆœûĞ·-HÕGRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Ï’ùÙ8·ÏŞÍ·-HŞFRMAJORZ
+CODE_SMELL
+squid:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(•¼«¥ûÿÿÿÿ8Õ“ìĞ·-HÍGRCRITICALZVULNERABILITY
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÆØ™8·ÏŞÍ·-HßFRMAJORZ
+CODE_SMELL
+squid:S4684W"@Replace this persistent entity with a simple POJO or DTO object.(¼¥’Ğúÿÿÿÿ8¾œÓ¨·-HŒDRCRITICALZVULNERABILITY
+|squid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶Â™œ8·ÏŞÍ·-HÜFRMINORZ
+CODE_SMELL
+~squid:S4488+"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(æÊåí8¾œÓ¨·-H‘DRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(´ë£½úÿÿÿÿ8Ÿ›°Ã·-HÌDRMAJORZ
+CODE_SMELL
+l
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÑºÍ‘8ı†ûÁ·-H«DRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(ƒâÑæ8Àµ¬Ò·-HáGRMAJORZ
+CODE_SMELL
+‹squid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‰Ìüÿÿÿÿ8¾œÓ¨·-H‹DRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(«–•—ÿÿÿÿÿ8·ÏŞÍ·-HàFRMAJORZ
+CODE_SMELL
+squid:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(³Í‹Œøÿÿÿÿ8üÉÂ›·-H’DRCRITICALZVULNERABILITY
+l
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8‡üõÂ·-HÂDRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(–µ†8ûˆÄ·-HäDRMAJORZ
+CODE_SMELL
+q
+squid:S106q"9Replace this use of System.out or System.err by a logger.(Ê×”‘ùÿÿÿÿ8Õ“ìĞ·-HÏGRMAJORZ
+CODE_SMELL
+l
+squid:S106f"9Replace this use of System.out or System.err by a logger.(®¨û8Ë·-H½FRMAJORZ
+CODE_SMELL
+q
+squid:S106{"9Replace this use of System.out or System.err by a logger.(œàíğúÿÿÿÿ8Ò£ĞÄ·-HğDRMAJORZ
+CODE_SMELL
+ysquid:S4684:"@Replace this persistent entity with a simple POJO or DTO object.(ÔËÖ8İÊ¹É·-H­FRCRITICALZVULNERABILITY
+ƒsquid:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(’§Ëæÿÿÿÿÿ8İÊ¹É·-H¬FRMINORZ
+CODE_SMELL
+{squid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£æ†8ÂÇªú¶-HDRMINORZ
+CODE_SMELL
+ˆsquid:S00100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¨úûÿÿÿÿ8·ÏŞÍ·-HÛFRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ÊïÚşÿÿÿÿ8—ÜªÄ·-HİGRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(µÔÔ¼ıÿÿÿÿ8·ÏŞÍ·-HâFRMAJORZ
+CODE_SMELL
+‹squid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¥’Ğúÿÿÿÿ8¾œÓ¨·-HŠDRMINORZ
+CODE_SMELL
+_squid:S1481h"&Remove this unused "s" local variable.(è÷”¡ÿÿÿÿÿ8®§àÅ·-HŠERMINORZ
+CODE_SMELL
+‚squid:S1192!"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿ8–ê²Ò·-HãGRCRITICALZ
+CODE_SMELL
+squid:S44882"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µÎ¶­ÿÿÿÿÿ8ÜİÅ¢·-H”DRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(¿”Êşÿÿÿÿ8´‡ä§·-H“DRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(á´¸›8´‡ä§·-HDRMAJORZ
+CODE_SMELL
+|squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øš8¶èõÿ¶-HªFRMINORZ
+CODE_SMELL

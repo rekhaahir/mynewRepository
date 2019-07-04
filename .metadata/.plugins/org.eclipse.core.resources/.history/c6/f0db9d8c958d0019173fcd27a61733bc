@@ -1,0 +1,26 @@
+package com_5_6_19_practicals;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+
+public class Prac92 {
+
+
+	public static void main(String[] args) throws IOException{
+	
+	InputStream input = null;
+	try {
+	    input  = new FileInputStream("inputfile.txt");
+	} 
+	finally {
+	    if (input != null) {
+	       try {
+	         input.close();
+	       }catch (IOException exp) {
+	           System.out.println(exp );
+	        }
+	    }
+	}
+	}
+}

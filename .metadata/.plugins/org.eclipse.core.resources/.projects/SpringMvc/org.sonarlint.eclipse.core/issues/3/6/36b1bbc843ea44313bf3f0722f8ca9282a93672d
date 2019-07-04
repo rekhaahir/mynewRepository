@@ -1,0 +1,11 @@
+
+usquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8¸×Ž“¹-H²SRMINORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'com.example.demo.bean.Quebean'.(óÀ¡¾ùÿÿÿÿ8ÍêÝ“¹-HêSRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªí÷ü8Ÿ©ò¹-H‚SRMAJORZ
+CODE_SMELL
+„squid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ÓêúÿÿÿÿH®RRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îïÇ²ûÿÿÿÿ8ý–½ž¹-HÁURMAJORZ
+CODE_SMELL

@@ -1,0 +1,36 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.example.demo.bean.Quebean;
+import com.example.demo.bean.Registerbean;
+import com.example.demo.repository.Myrepo;
+import com.example.demo.repository.QuestionRepository;
+
+@Service
+public class Displayservice {
+
+	@Autowired
+	Myrepo repo;
+	
+	@Autowired
+	QuestionRepository qrepo;
+
+	@Transactional
+	public Iterable<Registerbean> findAll() {
+		return repo.findAll();
+	}
+
+	@Transactional
+	public Iterable<Quebean> findAllque() {
+		return qrepo.findAll();
+	}
+
+	public  void findQuestionById(Long qId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

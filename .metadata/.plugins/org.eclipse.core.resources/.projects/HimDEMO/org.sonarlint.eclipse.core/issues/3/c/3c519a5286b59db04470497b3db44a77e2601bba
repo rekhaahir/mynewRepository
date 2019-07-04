@@ -1,0 +1,11 @@
+
+squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(îðª©8ö”ÆÎ¶-HÎ;RMAJORZ
+CODE_SMELL
+psquid:S1854&"7Remove this useless assignment to local variable "res".( Ò¨ƒùÿÿÿÿ8ö”ÆÎ¶-HÌ;RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÀ;RINFOZ
+CODE_SMELL
+asquid:S1481&"(Remove this unused "res" local variable.( Ò¨ƒùÿÿÿÿ8ö”ÆÎ¶-HÍ;RMINORZ
+CODE_SMELL
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õðûìH¿;RMINORZ
+CODE_SMELL

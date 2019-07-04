@@ -1,0 +1,19 @@
+
+ˆsquid:S00116N"NRename this field "Ans" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñÿ€ãûÿÿÿÿ8±Ã…¿¸-HîRRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Ø‡²ûÿÿÿÿ8±Ã…¿¸-HïRRMAJORZ
+CODE_SMELL
+‘squid:S4144Z"XUpdate this method so that its implementation is not identical to "setLikec" on line 46.(§ø§Ìùÿÿÿÿ8‰˜£î¸-HñRRMAJORZ
+CODE_SMELL
+osquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+8ôöÈÏ·-HðRRMINORZ
+CODE_SMELL
+Šsquid:S00116P"PRename this field "Likec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÕ¦›úÿÿÿÿ8²‹ðí¸-HòRRMINORZ
+CODE_SMELL
+Œsquid:S4144W"XUpdate this method so that its implementation is not identical to "getLikec" on line 43.(Ÿäˆ‹8‰˜£î¸-HôRRMAJORZ
+CODE_SMELL
+hsquid:EmptyStatementUsageCheck$"Remove this empty statement.(«ÖÜÊüÿÿÿÿ8‰˜£î¸-HíRRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÞÈŽÒ8±Ã…¿¸-HóRRMAJORZ
+CODE_SMELL
+Œsquid:S00116R"RRename this field "Helpful" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÊ×þÿÿÿÿ8ì«ãí¸-HìRRMINORZ
+CODE_SMELL

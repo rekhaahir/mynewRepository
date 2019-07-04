@@ -1,0 +1,144 @@
+
+Œsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¨ÀÍÿÿÿÿÿ8×¿ğ¸-HÙRRMINORZ
+CODE_SMELL
+lsquid:S1854$"8Remove this useless assignment to local variable "test".(Û¦ÿ8¯°Ô¹-H²URMAJORZ
+CODE_SMELL
+q
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ÊçÎÁüÿÿÿÿ8Œëî™¹-HùTRMAJORZ
+CODE_SMELL
+|squid:S4488h"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÌÜßµ8ÿÎòÄ¸-HĞRRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(ÊïÚşÿÿÿÿ8—ÜªÄ·-HÌRRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(á´¸›8´‡ä§·-HÓRRMAJORZ
+CODE_SMELL
+m
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ğº»Ş8é¢şõ¸-HåRRMAJORZ
+CODE_SMELL
+‚squid:S1192&"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿ8çª”ó¸-HÃRRCRITICALZ
+CODE_SMELL
+Œsquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¥’Ğúÿÿÿÿ8¾œÓ¨·-HäURMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(«–•—ÿÿÿÿÿ8·ÏŞÍ·-HÒRRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(ÜİÆ´8Ùç‡Ç¸-HßRRMAJORZ
+CODE_SMELL
+Œsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‰Ìüÿÿÿÿ8¾œÓ¨·-HÄRRMINORZ
+CODE_SMELL
+|squid:S4488I"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶Â™œ8ÜİÅ¢·-HÕRRMINORZ
+CODE_SMELL
+ƒsquid:S4488>"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(’§Ëæÿÿÿÿÿ8µÜÀ•¹-H—TRMINORZ
+CODE_SMELL
+psquid:S1854o"7Remove this useless assignment to local variable "qid".(‘ÁùØúÿÿÿÿ8±µ«Å¸-HÈRRMAJORZ
+CODE_SMELL
+m
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(öØÈ¢8×´ğõ¸-HØRRMAJORZ
+CODE_SMELL
+squid:S4684i"@Replace this persistent entity with a simple POJO or DTO object.(•¼«¥ûÿÿÿÿ8ÿÎòÄ¸-H¿RRCRITICALZVULNERABILITY
+`squid:S1481Ú"&Remove this unused "s" local variable.(è÷”¡ÿÿÿÿÿ8®§àÅ·-HÛRRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Ì»¤ÿ8˜’Â¸-H·RRMAJORZ
+CODE_SMELL
+q
+squid:S106r"9Replace this use of System.out or System.err by a logger.(‡®—šıÿÿÿÿ8ë¿æ—¹-H¬TRMAJORZ
+CODE_SMELL
+l
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ÑºÍ‘8í¨ÒÂ¸-H°RRMAJORZ
+CODE_SMELL
+|squid:S4488{"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(½åá8¾œÓ¨·-H¾RRMINORZ
+CODE_SMELL
+]squid:S1481$")Remove this unused "test" local variable.(Û¦ÿ8¯°Ô¹-H³URMINORZ
+CODE_SMELL
+r
+squid:S106«"9Replace this use of System.out or System.err by a logger.(™ş®™üÿÿÿÿ8é¢şõ¸-HİRRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(ßÿĞÕ8™àÇ¸-HÇRRMAJORZ
+CODE_SMELL
+{squid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£æ†8ó©‡À¸-HËRRMINORZ
+CODE_SMELL
+|squid:S4488O"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(“®Íæ8¶èõÿ¶-HâRRMINORZ
+CODE_SMELL
+‚squid:S4488Ÿ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(şšüÿÿÿÿ8İ‰ÄÂ¸-HÍRRMINORZ
+CODE_SMELL
+`squid:S1481¾"&Remove this unused "l" local variable.(ùÈÕƒşÿÿÿÿ8ıŸİ¹-HÏURMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8˜’Â¸-HÖRRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ÖˆŒŠúÿÿÿÿ8âÀÍœ¹-H£URMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(´ë£½úÿÿÿÿ8Ÿ›°Ã·-HàRRMAJORZ
+CODE_SMELL
+lsquid:S18542"8Remove this useless assignment to local variable "test".(Û¦ÿ8¯°Ô¹-H±URMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(¿”Êşÿÿÿÿ8´‡ä§·-H³RRMAJORZ
+CODE_SMELL
+m
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(«¹”Ù8–ÌêÊ¸-HŞRRMAJORZ
+CODE_SMELL
+squid:S4488É"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(àÎƒ8İÊ¹É·-HÚRRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(–µ†8ûˆÄ·-HáRRMAJORZ
+CODE_SMELL
+€squid:S4684Ê"@Replace this persistent entity with a simple POJO or DTO object.(¼¥’Ğúÿÿÿÿ8¾œÓ¨·-HãURCRITICALZVULNERABILITY
+ysquid:S4684?"@Replace this persistent entity with a simple POJO or DTO object.(ÔËÖ8üÉÂ›·-H½RRCRITICALZVULNERABILITY
+€squid:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(ãœş¯ûÿÿÿÿ8×¿ğ¸-H»RRCRITICALZVULNERABILITY
+r
+squid:S106á"9Replace this use of System.out or System.err by a logger.(Ê×”‘ùÿÿÿÿ8œâ¯“¹-HÊSRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ÜˆÏñıÿÿÿÿ8ıŸİ¹-HĞURMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(íÕ»í8ï—‡Å¸-HÔRRMAJORZ
+CODE_SMELL
+]squid:S14812")Remove this unused "test" local variable.(Û¦ÿ8¯°Ô¹-H´URMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(çïÔŞıÿÿÿÿ8·ÏŞÍ·-H¸RRMAJORZ
+CODE_SMELL
+squid:S44887"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µÎ¶­ÿÿÿÿÿ8ÂÇªú¶-HÆRRMINORZ
+CODE_SMELL
+q
+squid:S106["9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8í¨ÒÂ¸-HÅRRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(”ÆØ™8·ÏŞÍ·-H´RRMAJORZ
+CODE_SMELL
+l
+squid:S106_"9Replace this use of System.out or System.err by a logger.(×‡«à8Á‚„”¹-HıSRMAJORZ
+CODE_SMELL
+r
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(ìõõÒşÿÿÿÿ8±¢œó¸-H¶RRMAJORZ
+CODE_SMELL
+asquid:S1481o"(Remove this unused "qid" local variable.(‘ÁùØúÿÿÿÿ8±µ«Å¸-HÁRRMINORZ
+CODE_SMELL
+osquid:S1854¾"5Remove this useless assignment to local variable "l".(ùÈÕƒşÿÿÿÿ8ıŸİ¹-HÎURMAJORZ
+CODE_SMELL
+osquid:S1854Ú"5Remove this useless assignment to local variable "s".(è÷”¡ÿÿÿÿÿ8®§àÅ·-HÏRRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(Ï’ùÙ8·ÏŞÍ·-HÊRRMAJORZ
+CODE_SMELL
+|squid:UselessImportCheck"6Remove this unused import 'java.net.http.HttpRequest'.(ş€ŠÍşÿÿÿÿ8Â—è¹-HåURMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÔÔ¼ıÿÿÿÿ8·ÏŞÍ·-H¼RRMAJORZ
+CODE_SMELL
+|squid:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øš8Õ“ìĞ·-H±RRMINORZ
+CODE_SMELL
+q
+squid:S106}"9Replace this use of System.out or System.err by a logger.(œàíğúÿÿÿÿ8Ä²µœ¹-H™URMAJORZ
+CODE_SMELL
+m
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(®¨û8Ñú´¿¸-HÂRRMAJORZ
+CODE_SMELL
+}squid:S4488¼"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏšüŒ8×¿ğ¸-HÀRRMINORZ
+CODE_SMELL
+m
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8Şä…ğ¸-HæRRMAJORZ
+CODE_SMELL
+m
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ä›Ø°8ÿÎòÄ¸-HãRRMAJORZ
+CODE_SMELL
+squid:S46841"@Replace this persistent entity with a simple POJO or DTO object.(³Í‹Œøÿÿÿÿ8İÊ¹É·-HÜRRCRITICALZVULNERABILITY
+l
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÑºÍ‘8Ñú´¿¸-HÎRRMAJORZ
+CODE_SMELL
+~squid:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(æÊåí8”´»Ã·-HºRRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ªó‡øÿÿÿÿ8ûˆÄ·-H¹RRMAJORZ
+CODE_SMELL

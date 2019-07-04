@@ -1,0 +1,38 @@
+package com_5_6_19_practicals;
+
+import java.util.Scanner;
+
+public class Prac60 
+{
+	public static void main(String[] args)
+	{
+		  Scanner sc = new Scanner(System.in);
+		  System.out.println("enter first num:");
+		  int n = sc.nextInt();
+		  System.out.println("enter second num:");
+		  int m = sc.nextInt();
+		  System.out.println("enter operation + * / -");
+		  String s=sc.nextLine();
+		  switch(s) 
+		  {
+			  case "+":
+				  System.out.println(n+m);
+				  break;
+			  case "-":
+				  System.out.println(n-m);
+				  break;
+			  case "*":
+				  System.out.println(n*m);
+				  break;
+			  case "/":
+				  System.out.println(n/m);
+				  break;
+			 default:
+				  
+					  System.out.println("please enter valid operator");
+					  
+		  }
+			
+		
+	}
+}

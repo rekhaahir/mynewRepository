@@ -1,0 +1,37 @@
+package com.example.demo.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.example.demo.Dao.Dao;
+import com.example.demo.bean.Registerbean;
+import com.example.demo.repository.Myrepo;
+
+public class services {
+	@Autowired
+	private Dao ob;
+	@Autowired
+	private Myrepo repo;
+
+	@Transactional
+
+	public List<Registerbean> get() {
+
+		return ob.get();
+	}
+	
+	public void Save(Registerbean obj) {
+		Registerbean obvo = new Registerbean();
+		obvo.setFirstName(obj.getFirstName());
+		obvo.setLastName(obj.getLastName());
+		repo.save(obvo);
+	}
+//	@Transactional
+//	@Override
+//	public void Delete(int id) {
+//		// TODO Auto-generated method stub
+//		
+//	}
+}

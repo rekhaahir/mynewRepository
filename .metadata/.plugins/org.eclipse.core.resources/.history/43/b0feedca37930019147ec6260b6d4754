@@ -1,0 +1,12 @@
+package com.example.demo.services;
+
+import com.example.demo.bean.Registerbean;
+
+import com.example.demo.repository.Myrepo;
+public class Services {
+public void ins(Registerbean obj) {
+
+		
+		repo.save(obj);
+	}
+}

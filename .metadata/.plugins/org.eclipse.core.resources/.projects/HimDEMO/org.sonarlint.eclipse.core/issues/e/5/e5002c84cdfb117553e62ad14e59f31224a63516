@@ -1,0 +1,14 @@
+
+dsquid:S1989"(Add a "try/catch" block for "getWriter".(â¡„Ýøÿÿÿÿ8êÙ´Î¶-H±;RMINORZVULNERABILITY
+„squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ð…Ôüÿÿÿÿ8êÙ´Î¶-H³;RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(â«® þÿÿÿÿ8êÙ´Î¶-H²;RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH­;RINFOZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡„Ýøÿÿÿÿ8êÙ´Î¶-H¯;RMINORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8êÙ´Î¶-H°;RMAJORZ
+CODE_SMELL
+‚squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬ê¶¸8êÙ´Î¶-H®;RMINORZ
+CODE_SMELL

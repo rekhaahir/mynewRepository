@@ -1,0 +1,54 @@
+
+~squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¹ªNH7RMINORZ
+CODE_SMELL
+squid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òøˆHŸ7RMINORZ
+CODE_SMELL
+„squid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„²®øÿÿÿÿH 7RMINORZ
+CODE_SMELL
+Isquid:S1700K"Rename field "question"(·î”ÛøÿÿÿÿH¡7RMAJORZ
+CODE_SMELL
+}squid:S00116	"ORename this field "L_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÕãÆH¢7RMINORZ
+CODE_SMELL
+€squid:S00116
+"RRename this field "New_LID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À±´„H£7RMINORZ
+CODE_SMELL
+„squid:S00116"QRename this field "U_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ºö‹ÿÿÿÿÿH¤7RMINORZ
+CODE_SMELL
+‚squid:S00116"ORename this field "TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àö¤ÛÿÿÿÿÿH¥7RMINORZ
+CODE_SMELL
+squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ§ÜúÿÿÿÿÿH¦7RMINORZ
+CODE_SMELL
+{squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¹ªNH§7RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH¨7RINFOZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Œ¯ÌúÿÿÿÿH©7RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿHª7RMAJORZ
+CODE_SMELL
+csquid:S1135 "2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH«7RINFOZ
+CODE_SMELL
+squid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÿ¹ÛşÿÿÿÿH¬7RMINORZ
+CODE_SMELL
+|squid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òøˆH­7RMINORZ
+CODE_SMELL
+|squid:S00100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëí£H®7RMINORZ
+CODE_SMELL
+squid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„²®øÿÿÿÿH¯7RMINORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¸ŒĞ‡H°7RMAJORZ
+CODE_SMELL
+e
+squid:S1065"9Replace this use of System.out or System.err by a logger.(®ŞŸàH±7RMAJORZ
+CODE_SMELL
+j
+squid:S106H"9Replace this use of System.out or System.err by a logger.(†Œ¯ÌúÿÿÿÿH²7RMAJORZ
+CODE_SMELL
+j
+squid:S106I"9Replace this use of System.out or System.err by a logger.(·—¿§ûÿÿÿÿH³7RMAJORZ
+CODE_SMELL
+Zsquid:S1068"(Remove this unused "TIME" private field.(àö¤ÛÿÿÿÿÿH´7RMAJORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+package com.example.demo.Dao;
+
+import javax.sql.DataSource;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+
+import com.example.demo.bean.userbean;
+
+public class mydaoimpl implements mydao {
+	private JdbcTemplate jdbcTemplate;
+	@Override
+	public void setDataSource(DataSource dataSource) {
+		this.jdbcTemplate = new JdbcTemplate(dataSource);
+		
+	}
+
+	@Override
+	public boolean authenticateUser(userbean userBean) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

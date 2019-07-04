@@ -1,0 +1,68 @@
+statusmsg{
+    font-size: 12px; /* Set message font size  */
+    padding: 3px; /* Some padding to make some more space for our text  */
+    background: #EDEDED; /* Add a background color to our status message   */
+    border: 1px solid #DFDFDF; /* Add a border arround our status message   */
+}
+#new
+{
+background:#65C370;
+color:#FFF;
+text-transform:uppercase;
+}
+
+body{ 
+ 
+
+font-family:montserrt,arial,verdana;
+}
+html{
+
+height:100%;
+background:liner-gradient(rgba(196,102,0,0.6),rgba(155,89,182,0.6));
+}
+
+#msform
+{
+background-color:gainsboro;
+width:500px;
+margin:50px auto;
+text-align:center;
+text-color:red;
+position:relative;
+box-shadow:0 0 15px 1px rgba(0,0,0,4);
+padding:20px 30px;
+box-sizing:bordr-box;
+
+}
+#msform1
+{
+
+background-color:gainsboro;
+width:400px;
+margin:50px auto;
+text-align:center;
+text-color:red;
+position:relative;
+box-shadow:0 0 15px 1px rgba(0,0,0,4);
+padding:20px 30px;
+box-sizing:bordr-box;
+
+}
+
+#msform fieldset
+{
+
+background:lightgrey;
+border:0 none;
+border-radius:3px;
+box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+padding:20px 30 px;
+box-sizing:border-box;
+width:80%;
+margin:0 10%;position:relative;
+}
+
+
+   
+      

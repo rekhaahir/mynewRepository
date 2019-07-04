@@ -1,0 +1,14 @@
+
+€squid:S1192-"PDefine a constant instead of duplicating this literal "redirect:/index" 3 times.(çŽÌ°HÒ=RCRITICALZ
+CODE_SMELL
+|squid:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ8î«˜û¶-HŽ>RMINORZ
+CODE_SMELL
+squid:S4488*"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¿ƒÙÑøÿÿÿÿ8î«˜û¶-H>RMINORZ
+CODE_SMELL
+squid:S46844"@Replace this persistent entity with a simple POJO or DTO object.(Þ§¨ûÿÿÿÿ8î«˜û¶-H>RCRITICALZVULNERABILITY
+~squid:S44883"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ú¿Ìã8î«˜û¶-H‘>RMINORZ
+CODE_SMELL
+|squid:S4488A"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(û–Ûï8î«˜û¶-H’>RMINORZ
+CODE_SMELL
+}squid:S4488K"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ï˜¦8î«˜û¶-H“>RMINORZ
+CODE_SMELL

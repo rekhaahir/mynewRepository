@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="js/like-dislike.min.js"></script>
+<script type="text/javascript">
+    $('#rating').likeDislike({
+        initialValue: 0,
+        click: function (value, l, d, event) {
+            var likes = $(this.element).find('.likes');
+            var dislikes = $(this.element).find('.dislikes');
+
+            likes.text(parseInt(likes.text()) + l);
+            dislikes.text(parseInt(dislikes.text()) + d);
+
+            // $.ajax({
+            //     url: 'url',
+            //     type: 'post',
+            //     data: 'value=' + value,
+            // });
+        }
+    });
+</script>
+</head>
+<body>
+<div id="rating">
+    <button class="like">Like</button>
+    <span class="likes">0</span>
+    <button class="dislike">Dislike</button>
+    <span class="dislikes">0</span>
+</div>
+</body>
+</html>

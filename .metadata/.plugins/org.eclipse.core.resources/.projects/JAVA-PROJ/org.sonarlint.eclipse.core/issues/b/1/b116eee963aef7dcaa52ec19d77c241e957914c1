@@ -1,0 +1,20 @@
+
+lsquid:S1854":Remove this useless assignment to local variable "dollar".(é¶…ÍüÿÿÿÿHœ$RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH›$RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰”¨şÿÿÿÿH$RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸©Œ¡ùÿÿÿÿH¡$RMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡÷ÿeH$RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(º“µÖúÿÿÿÿH $RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(³–™HŸ$RMAJORZ
+CODE_SMELL

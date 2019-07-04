@@ -1,0 +1,18 @@
+package com.example.demo.services;
+
+import java.util.List;
+
+import com.example.demo.bean.Registerbean;
+
+public interface Regservice {
+	static List<Registerbean> get() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	Registerbean get(int id);
+	static void Save(Registerbean obj) {
+		// TODO Auto-generated method stub
+		
+	}
+	void Delete(int id);
+}

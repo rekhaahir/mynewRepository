@@ -1,0 +1,7 @@
+
+‡squid:S00116M"RRename this field "Totlike" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÙË°8„Àî¸-HéRRMINORZ
+CODE_SMELL
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿó“Çùÿÿÿÿ8„Àî¸-HëRRCRITICALZ
+CODE_SMELL
+Œsquid:S00116O"RRename this field "Tothelp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¯¢ôúÿÿÿÿ8„Àî¸-HêRRMINORZ
+CODE_SMELL

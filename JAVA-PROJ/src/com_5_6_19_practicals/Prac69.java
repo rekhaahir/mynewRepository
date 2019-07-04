@@ -1,0 +1,13 @@
+package com_5_6_19_practicals;
+
+public class Prac69 {
+	public static int calc() {
+		int a = 10;
+		int b = 10;
+		return a + b;
+	}
+
+	public static void main(String[] args) {
+		System.out.println(Prac69.calc());
+	}
+}

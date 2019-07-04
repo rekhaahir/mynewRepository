@@ -1,0 +1,19 @@
+package com_5_6_19_practicals;
+
+public class Prac110 {
+
+	public static void main(String[] args) {
+		String s = "my name is xyz";
+		String[] d = s.split("");
+		for (int i = 0; i < s.length(); i++) {
+			char c = s.charAt(i);
+			if (Character.isLetter(c)) {
+				System.out.print(c);
+			} else {
+				System.out.println("");
+			}
+
+		}
+	}
+
+}

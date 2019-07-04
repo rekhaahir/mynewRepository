@@ -1,0 +1,12 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHüRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(»÷Ä8ˆŸÒ‰³-HşRMAJORZ
+CODE_SMELL
+nsquid:S1161
+":Add the "@Override" annotation above this method signature(¦ğş8ˆŸÒ‰³-HÿRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÅ‘øÿÿÿÿ8ˆŸÒ‰³-H€RMAJORZ
+CODE_SMELL

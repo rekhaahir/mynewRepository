@@ -1,0 +1,14 @@
+
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÚŸ¢¢üÿÿÿÿ8şŸ²İ´-HÎRBLOCKERZBUG
+~squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(îÀŞ›8şŸ²İ´-HÏRBLOCKERZBUG
+qsquid:S1197"8Move the array designator from the variable to the type.(íä¸üÿÿÿÿ8şŸ²İ´-HĞRMINORZ
+CODE_SMELL
+fsquid:S4925
+"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8şŸ²İ´-HÑRMAJORZ
+CODE_SMELL
+^squid:S2068" Remove this hard-coded password.(ÚŸ¢¢üÿÿÿÿ8şŸ²İ´-HÒRBLOCKERZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8şŸ²İ´-HÓRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHÔRMINORZ
+CODE_SMELL

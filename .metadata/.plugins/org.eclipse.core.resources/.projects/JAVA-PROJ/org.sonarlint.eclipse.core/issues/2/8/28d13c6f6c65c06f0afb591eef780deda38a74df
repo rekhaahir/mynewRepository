@@ -1,0 +1,11 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHœ"RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿ8ŞÄç†´-H"RMAJORZ
+CODE_SMELL
+squid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö®øò8ŞÄç†´-H"RMINORZ
+CODE_SMELL
+msquid:UselessImportCheck",Remove this unused import 'java.util.Queue'.(Äá™ô8ŞÄç†´-HŸ"RMINORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+package com_5_6_19_practicals;
+
+import java.util.Stack;
+
+public class Prac136 {
+
+	public static void main(String[] args) {
+		String s = "hello";
+		int i;
+		Stack t = new Stack();
+		for (i = s.length() - 1; i >= 0; i--) {
+			t.add(s.charAt(i));
+
+		}
+
+		System.out.println(t);
+	}
+
+}

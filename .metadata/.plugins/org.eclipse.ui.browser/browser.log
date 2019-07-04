@@ -1,0 +1,41 @@
+
+Jun 18, 2019 13:00:17.86 NEW SESSION
+Jun 18, 2019 13:00:17.86 [Parent 10122, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-TU7cn2/firefox-67.0.2+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Jun 18, 2019 13:00:17.86 [Parent 10122, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-TU7cn2/firefox-67.0.2+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Jun 18, 2019 13:00:17.93 
+Jun 18, 2019 13:00:17.93 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jun 18, 2019 13:00:17.93 
+Jun 18, 2019 13:05:09.30 
+Jun 18, 2019 13:05:09.30 (/usr/lib/firefox/firefox:11327): dconf-WARNING **: 13:05:09.300: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 13:50:35.81 
+Jun 18, 2019 13:50:35.81 (/usr/lib/firefox/firefox:11517): dconf-WARNING **: 13:50:35.813: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 13:54:40.89 
+Jun 18, 2019 13:54:40.89 (/usr/lib/firefox/firefox:12219): dconf-WARNING **: 13:54:40.891: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 13:55:18.40 
+Jun 18, 2019 13:55:18.40 (/usr/lib/firefox/firefox:12386): dconf-WARNING **: 13:55:18.404: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 14:00:09.08 
+Jun 18, 2019 14:00:09.08 (/usr/lib/firefox/firefox:10713): dconf-WARNING **: 14:00:09.080: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 14:04:51.53 
+Jun 18, 2019 14:04:51.53 (/usr/lib/firefox/firefox:10899): dconf-WARNING **: 14:04:51.539: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 14:06:46.83 
+Jun 18, 2019 14:06:46.83 (/usr/lib/firefox/firefox:11129): dconf-WARNING **: 14:06:46.833: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 14:22:50.98 
+Jun 18, 2019 14:22:50.98 (/usr/lib/firefox/firefox:10595): dconf-WARNING **: 14:22:50.980: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Jun 18, 2019 15:17:13.25 
+Jun 18, 2019 15:17:13.25 (firefox:10511): Gtk-WARNING **: 15:17:13.254: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:17:18.66 
+Jun 18, 2019 15:17:18.66 (firefox:10511): Gtk-WARNING **: 15:17:18.663: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:19:30.54 
+Jun 18, 2019 15:19:30.54 (firefox:10511): Gtk-WARNING **: 15:19:30.544: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:26:58.00 
+Jun 18, 2019 15:26:58.00 (firefox:10511): Gtk-WARNING **: 15:26:58.005: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:33:30.03 
+Jun 18, 2019 15:33:30.03 (firefox:10511): Gtk-WARNING **: 15:33:30.035: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:34:14.38 
+Jun 18, 2019 15:34:14.38 (firefox:10511): Gtk-WARNING **: 15:34:14.382: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:35:20.71 
+Jun 18, 2019 15:35:20.71 (firefox:10511): Gtk-WARNING **: 15:35:20.711: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:36:22.68 
+Jun 18, 2019 15:36:22.68 (firefox:10511): Gtk-WARNING **: 15:36:22.680: Failed to measure available space: The specified location is not supported
+Jun 18, 2019 15:37:17.70 
+Jun 18, 2019 15:37:17.70 (firefox:10511): Gtk-WARNING **: 15:37:17.707: Failed to measure available space: The specified location is not supported

@@ -1,0 +1,13 @@
+package com.example.demo.repository;
+
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.example.demo.bean.Registerbean;
+
+public interface Myrepo extends CrudRepository<Registerbean, Long>{
+	 @Query(value="select r from registered r where r.Username=:name AND r.Password=:pass")
+	 Registerbean findByName(@Param("name") String name,@Param("pass") String pass);
+}

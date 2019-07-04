@@ -1,0 +1,26 @@
+package com_5_6_19_practicals;
+
+public class Prac72 {
+	Prac72()
+	{
+		System.out.println("hello constructor here!");
+	}
+	Prac72(int a,int b)
+	{
+		System.out.println("a+b:"+(a+b));
+		
+	}
+	Prac72(int a,int b,int c)
+	{
+		System.out.println("a*b*c:"+a*b*c);
+		
+	}
+
+
+	public static void main(String[] args)
+	{
+		Prac72 ob=new Prac72();
+		Prac72 ob1=new Prac72(10,10);
+		Prac72 ob2=new Prac72(3,3,3);
+	}
+}

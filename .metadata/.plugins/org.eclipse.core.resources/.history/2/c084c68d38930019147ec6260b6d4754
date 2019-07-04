@@ -1,0 +1,10 @@
+package com.example.demo.Dao;
+import java.util.*;
+
+import com.example.demo.bean.Registerbean;
+public interface Dao {
+List<Registerbean> get();
+Registerbean get(int id);
+void ins(Registerbean obj);
+void Delete(int id);
+}

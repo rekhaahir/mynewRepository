@@ -1,0 +1,14 @@
+package Practice;
+
+public class Threading {
+	static
+	{
+	public void run(){  
+		   System.out.println("running...");  
+		 }  
+	}
+		 public static void main(String args[]){  
+			 Threading t1=new Threading();  
+		 // t1.run();//fine, but does not start a separate call stack  
+		 }  
+}

@@ -1,0 +1,29 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.example.demo.bean.userbean;
+import com.example.demo.repository.loginrepo;
+
+@Service
+public class loginserv {
+	@Autowired
+	loginrepo ll;
+//	public void log(userbean obj) {
+//	List<userbean> list=ll.find(obj.getname(),obj.getPass());
+//	
+	
+
+@Transactional
+public boolean log(userbean user) {
+
+	userbean u=ll.find(user.getname(),user.getPass());
+	if(u!=null)
+		return true;
+	else
+		return false;
+	
+}
+}

@@ -1,0 +1,9 @@
+package com_5_6_19_practicals;
+
+public class Prac31 {
+	public static void main(String[] arg) {
+		int[][] a = new int[4][6];
+		System.out.println(a.length);
+		System.out.println(a[0].length);
+	}
+}

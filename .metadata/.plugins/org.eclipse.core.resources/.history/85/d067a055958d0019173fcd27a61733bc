@@ -1,0 +1,28 @@
+package com_5_6_19_practicals;
+
+import java.io.File;
+import java.io.FileFilter;
+
+public class Prac130 {
+	
+	public static void main(String[] args) {
+		File dir = new File("/home/rekhaahir/a/b");
+		File[] files = dir.listFiles();
+		FileFilter fileFilter = new FileFilter() {
+			public boolean accept(File file) {
+				return file.isDirectory();
+			}
+		};
+		files = dir.listFiles(fileFilter);
+		System.out.println(files.length);
+
+		if (files.length == 0) {
+			System.out.println("Either dir does not exist or is not a directory");
+		} else {
+			for (int i = 0; i < files.length; i++) {
+				File filename = files[i];
+				System.out.println(filename.toString());
+			}
+		}
+}
+}

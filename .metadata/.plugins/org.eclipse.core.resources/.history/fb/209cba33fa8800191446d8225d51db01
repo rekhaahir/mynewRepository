@@ -1,0 +1,22 @@
+package com_5_6_19_practicals;
+abstract class A  //make class abstract
+{
+	int a;
+	abstract void get();
+	void print()
+	{
+		System.out.println(a);
+	}
+}
+public class Prac65 extends A {
+	void get()
+	{
+		a=89;
+		super.print();
+	}
+	public static void main(String[] args)
+	{
+		A ob= new Prac65();
+		ob.get();
+	}	
+}

@@ -1,0 +1,15 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.demo.bean.Registerbean;
+
+import com.example.demo.repository.Myrepo;
+public class Services {
+
+	@Autowired
+	 Myrepo repo;
+public void insert(Registerbean obj) {		
+		repo.save(obj);
+	}
+}

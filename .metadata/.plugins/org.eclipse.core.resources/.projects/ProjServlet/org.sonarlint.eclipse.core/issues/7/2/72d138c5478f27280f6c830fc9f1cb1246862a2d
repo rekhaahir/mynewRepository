@@ -1,0 +1,10 @@
+
+Gsquid:S1220""Move this file to a named package.Hù9RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHú9RINFOZ
+CODE_SMELL
+gsquid:S1989-"+Add a "try/catch" block for "sendRedirect".(â Û´úÿÿÿÿ8ŞùÍ¶-H†:RMINORZVULNERABILITY
+csquid:S19890"'Add a "try/catch" block for "doFilter".(³µÌØıÿÿÿÿ8ŞùÍ¶-H‡:RMINORZVULNERABILITY
+csquid:S19890"'Add a "try/catch" block for "doFilter".(³µÌØıÿÿÿÿ8ŞùÍ¶-Hˆ:RMINORZVULNERABILITY
+nsquid:S11614":Add the "@Override" annotation above this method signature(‚“¶î8ŞùÍ¶-H‰:RMAJORZ
+CODE_SMELL

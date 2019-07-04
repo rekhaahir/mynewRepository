@@ -1,0 +1,19 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH"RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰¼Õşùÿÿÿÿ8ûÁº­´-H‘"RMAJORZ
+CODE_SMELL
+\squid:S1604"(Make this anonymous inner class a lambda(Ü´™º8‹ÁÅ­´-H"RMAJORZ
+CODE_SMELL
+rsquid:S1854
+"9Remove this useless assignment to local variable "files".(Ôã¿äûÿÿÿÿ8‹ÁÅ­´-HŒ"RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆä±áøÿÿÿÿ8ûÁº­´-H"RMAJORZ
+CODE_SMELL
+usquid:S1075	"ARefactor your code to get this URI from a customizable parameter.(Æú§‚8ûÁº­´-H"RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÖ›Àøÿÿÿÿ8‹ÁÅ­´-H‹"RMAJORZ
+CODE_SMELL

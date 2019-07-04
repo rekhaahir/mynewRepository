@@ -1,0 +1,16 @@
+package com.example.demo.repository;
+
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.example.demo.bean.Point;
+
+public interface insertpoint  extends CrudRepository<Point, Long> {
+	 @Modifying
+	    @Query(value = "insert into points (correct,ab_aid,rb.id,qbid.qid) VALUES (15,:id,:id1,:id2)", nativeQuery = true)
+	 public int modifyingQueryInsert(@Param("id")Long aid, @Param("id1")Long rid, @Param("id2")Long id2);
+}
+//@Query("insert into Person (id,name,age) select :id,:name,:age from Dual")
+//public int modifyingQueryInsertPerson(@Param("id")Long id, @Param("name")String name, @Param("age")Integer age);

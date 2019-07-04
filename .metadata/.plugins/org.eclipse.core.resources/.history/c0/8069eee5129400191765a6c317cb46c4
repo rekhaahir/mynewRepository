@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>    
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>   
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+      <a href="ask">Ask</a>
+      <table>
+<c:forEach var="quesshow1" items="${quesshow }">
+			<tr>
+				<td>${quesshow1.que}</td>
+				<td><a href=ok?${quesshow1.qid}>${quesshow1.qid}</a></td>
+				
+			</tr>
+		</c:forEach>
+		</table>
+      
+<!-- <p>ok</p> -->
+<%-- <p> testPath : ${testPath}</p> --%>
+<%-- <p> id : ${id}</p> --%>
+</body>
+</html>

@@ -1,0 +1,57 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHÈRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8Û¼”¯´-H×RMINORZ
+CODE_SMELL
+Wsquid:S2129	"Remove this "Byte" constructor(µ øÆûÿÿÿÿ8Û¼”¯´-HØRMAJORZ
+CODE_SMELL
+vsquid:CallToDeprecatedMethod	",Remove this use of "Byte"; it is deprecated.(µ øÆûÿÿÿÿ8Û¼”¯´-HÙRMINORZ
+CODE_SMELL
+Usquid:S2129"!Remove this "Integer" constructor(«¤ãğ8Û¼”¯´-HÚRMAJORZ
+CODE_SMELL
+tsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(«¤ãğ8Û¼”¯´-HÛRMINORZ
+CODE_SMELL
+Ssquid:S2129"Remove this "Float" constructor(Š¨’8Û¼”¯´-HÜRMAJORZ
+CODE_SMELL
+rsquid:CallToDeprecatedMethod"-Remove this use of "Float"; it is deprecated.(Š¨’8Û¼”¯´-HİRMINORZ
+CODE_SMELL
+Ysquid:S2129" Remove this "Double" constructor(ø´¼ÿúÿÿÿÿ8Û¼”¯´-HŞRMAJORZ
+CODE_SMELL
+xsquid:CallToDeprecatedMethod".Remove this use of "Double"; it is deprecated.(ø´¼ÿúÿÿÿÿ8Û¼”¯´-HßRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ºÆœ8Û¼”¯´-HàRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜àç£úÿÿÿÿ8Û¼”¯´-HáRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¿ĞË8Û¼”¯´-HâRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(·…ğ¯8Û¼”¯´-HãRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ùÚŸşÿÿÿÿ8Û¼”¯´-HäRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Òíó8Û¼”¯´-HåRMAJORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(ùº÷ïÿÿÿÿÿ8Û¼”¯´-HæRMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ùÚäıÿÿÿÿ8Û¼”¯´-HçRMAJORZ
+CODE_SMELL
+q
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÑåëÀıÿÿÿÿ8Û¼”¯´-HèRMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(…¬Œ„8Û¼”¯´-HéRMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Âë“éùÿÿÿÿ8Û¼”¯´-HêRMAJORZ
+CODE_SMELL
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‰Š¥—8Û¼”¯´-HëRMAJORZ
+CODE_SMELL

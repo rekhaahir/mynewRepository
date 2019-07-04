@@ -1,0 +1,29 @@
+
+bsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8Ç÷”ß´-Hƒ-RMAJORZBUG
+ssquid:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÚ‹ù´-H„-RMAJORZBUG
+qsquid:S11971"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8õÚ‹ù´-H…-RMINORZ
+CODE_SMELL
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8„ºÂø´-H†-RBLOCKERZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(­íº¾ùÿÿÿÿ8ÿ“°Ş´-H‡-RMAJORZ
+CODE_SMELL
+bsquid:S2446'"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8„¡ªŞ´-Hˆ-RMAJORZBUG
+ssquid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÚ‹ù´-H‰-RMAJORZBUG
+wsquid:S2276("CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8„¡ªŞ´-HŠ-RBLOCKERZBUG
+\squid:S1604A"(Make this anonymous inner class a lambda(ÿïŞß8õÚ‹ù´-H‹-RMAJORZ
+CODE_SMELL
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8õÚ‹ù´-HŒ-RBLOCKERZBUG
+_squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„¡ªŞ´-H-RMINORZVULNERABILITY
+_squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„¡ªŞ´-H-RMINORZVULNERABILITY
+rsquid:S1155!">Use isEmpty() to check whether the collection is empty or not.(§ŒÍ‚8õÚ‹ù´-H-RMINORZ
+CODE_SMELL
+wsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8Ç÷”ß´-H-RBLOCKERZBUG
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ùÂıĞûÿÿÿÿ8½ŠÆø´-H‘-RMAJORZ
+CODE_SMELL
+{squid:HiddenFieldCheck"7Rename "val" which hides the field declared at line 10.(ò¿º€ıÿÿÿÿ8ş Éø´-H’-RMAJORZ
+CODE_SMELL
+[squid:S16045"(Make this anonymous inner class a lambda(£·®8õÚ‹ù´-H“-RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑH”-RMINORZ
+CODE_SMELL

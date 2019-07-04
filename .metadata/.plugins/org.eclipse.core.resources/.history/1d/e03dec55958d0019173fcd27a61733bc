@@ -1,0 +1,32 @@
+class LengthMatchException extends Exception 
+{ 
+    public  LengthMatchException(String s) 
+    { 
+        // Call constructor of parent Exception 
+        super(s); 
+    } 
+} 
+
+public class Prac106{
+	public void calc(String s,int len)throws  LengthMatchException
+		{
+			if(len!=s.length())
+			{
+				throw new  LengthMatchException("length is not match");
+			}
+		}
+	
+	
+	public static void main(String[] args) {
+	Prac106 ob=new Prac106();
+	try
+	{
+		ob.calc("neha",9);
+	}
+	catch( LengthMatchException e)
+	{
+		System.out.print(e);
+	}
+		
+	}
+

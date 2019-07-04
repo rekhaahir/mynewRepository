@@ -1,0 +1,18 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHÅRMINORZ
+CODE_SMELL
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÚŸ¢¢üÿÿÿÿ8ºü•İ´-HÆRBLOCKERZBUG
+qsquid:S1197
+"8Move the array designator from the variable to the type.(íä¸üÿÿÿÿ8ºü•İ´-HÇRMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ºü•İ´-HÈRMINORZ
+CODE_SMELL
+ƒsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å¹ïÑûÿÿÿÿ8ºü•İ´-HÉRBLOCKERZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ºü•İ´-HÊRMAJORZ
+CODE_SMELL
+fsquid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ºü•İ´-HËRMAJORZ
+CODE_SMELL
+osquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8ºü•İ´-HÌRMINORZ
+CODE_SMELL
+^squid:S2068" Remove this hard-coded password.(ÚŸ¢¢üÿÿÿÿ8ºü•İ´-HÍRBLOCKERZVULNERABILITY

@@ -1,0 +1,16 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó×ÑHã#RMINORZ
+CODE_SMELL
+esquid:S1197"8Move the array designator from the variable to the type.(†µ›ŒHä#RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊŠâºûÿÿÿÿHå#RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÕêåþÿÿÿÿHæ#RMAJORZ
+CODE_SMELL
+[squid:S1481	")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿHç#RMINORZ
+CODE_SMELL
+Zsquid:S1481
+"(Remove this unused "loc" local variable.(Å…éøþÿÿÿÿHè#RMINORZ
+CODE_SMELL

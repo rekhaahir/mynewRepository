@@ -1,0 +1,9 @@
+
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÞÈŽÒ8ôöÈÏ·-H’GRMAJORZ
+CODE_SMELL
+ˆsquid:S001165"NRename this field "Ans" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñÿ€ãûÿÿÿÿ8ôöÈÏ·-H¢GRMINORZ
+CODE_SMELL
+osquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+8ôöÈÏ·-HGRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Ø‡²ûÿÿÿÿ8ôöÈÏ·-H“GRMAJORZ
+CODE_SMELL

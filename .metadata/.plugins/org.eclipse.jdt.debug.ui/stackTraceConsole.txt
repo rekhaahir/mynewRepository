@@ -1,0 +1,2 @@
+@Query("Select p from Quebean p where p.qid=:ID")
+	public Quebean finduid(@Param("ID")long id);

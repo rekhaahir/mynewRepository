@@ -1,0 +1,82 @@
+package com.example.demo.bean;
+
+import java.sql.Timestamp;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+
+@Entity
+@Table(name = "Questions")
+public class Quebean {
+
+	@ManyToOne(fetch = FetchType.LAZY)
+	private Registerbean rb;
+	 
+//	 @ManyToOne(cascade= CascadeType.ALL,targetEntity=Registerbean.class)
+//	    @JoinColumn(name = "r_ID")
+//	    private Registerbean rb;
+//
+//	   public Quebean() {
+//	        super();
+//		}
+//
+//	
+
+	 @Id
+		@GeneratedValue(strategy = GenerationType.AUTO)
+		private int qid;
+		@Column
+		private String Que;
+		@Column
+		private Timestamp Time;	
+		@Column
+		private String email;	
+//	    public Quebean(int addrId, String qu ,Timestamp tp, Registerbean rb)
+//	    {
+//	        super();
+//	        this.qid = addrId;
+//	        this.Que = qu;
+//	       
+//	        this.rb = rb;
+//	    }
+//		public Registerbean getRb() {
+//			return rb;
+//		}
+//		public void setRb(Registerbean rb) {
+//			this.rb = rb;
+//		}
+		public int getQid() {
+			return qid;
+		}
+		public void setQid(int qid) {
+			this.qid = qid;
+		}
+		public String getQue() {
+			return Que;
+		}
+		public void setQue(String que) {
+			Que = que;
+		}
+		public Timestamp getTime() {
+			return Time;
+		}
+		public void setTime(Timestamp time) {
+			Time = time;
+		}
+		public String getEmail() {
+			return email;
+		}
+		public void setEmail(String email) {
+			this.email = email;
+		}
+
+}

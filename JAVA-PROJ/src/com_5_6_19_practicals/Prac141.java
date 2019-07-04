@@ -1,0 +1,17 @@
+package com_5_6_19_practicals;
+
+import java.util.Collections;
+import java.util.Vector;
+
+public class Prac141 {
+
+	public static void main(String[] args) {
+		Vector v=new Vector();
+		v.add(0,10);
+		v.add(1,30);
+	
+		Object a= Collections.max(v);
+		System.out.println(a);
+	}
+
+}

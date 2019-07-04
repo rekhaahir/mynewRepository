@@ -1,0 +1,21 @@
+package com_5_6_19_practicals;
+
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+public class Prac100 {
+
+		public static void main(String[] args) {
+		
+		InputStream input = null;
+		try {
+		    input  = new FileInputStream("inputfile.txt");
+			} 
+		
+		     catch (IOException exp) {
+		           System.out.println(exp );
+		        }
+		    }
+		}
+		

@@ -1,0 +1,23 @@
+package com_5_6_19_practicals;
+
+public class Prac56 {
+
+	static boolean isPerfectSquare(int n) {
+		int divisorcount = 0;
+		for (int i = 1; i * i <= n; i++)
+			if (n % i == 0)
+				divisorcount++;
+
+		return (divisorcount & 1) == 1;
+	}
+
+	public static void main(String[] args) {
+
+		int n = 36;
+
+		if (isPerfectSquare(n))
+			System.out.println("Yes");
+		else
+			System.out.println("No");
+	}
+}
